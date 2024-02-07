@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/JAVA-1428A0?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 <!--
 **1eewookon/1eewookon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
