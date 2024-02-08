@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1eewookon%2Fhit-counter)](https://hits.seeyoufarm.com)      
-### 배운 언어 🌱   
+### Programming Languages Learned 🌱   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">      
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1eewookon&layout=compact)
