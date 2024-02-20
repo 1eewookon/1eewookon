@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=70)
 
-### Good to meet you 👋
+### Nice to meet you 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1eewookon%2Fhit-counter)](https://hits.seeyoufarm.com)      
 ### Programming Languages Learned 🌱   
